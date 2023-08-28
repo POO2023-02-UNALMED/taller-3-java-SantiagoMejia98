@@ -67,9 +67,9 @@ public class TV {
 		return control;
 	}
 
-	public static void setNumTV() {
+	public static void setNumTV(int num) {
 		
-		
+		numTV = num;
 	}
 	
 	public static int getNumTV() {
